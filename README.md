@@ -1,2 +1,2 @@
 # gibsonj
-Introduction to Digital Studio Practice
+Learning Github is Fun.
