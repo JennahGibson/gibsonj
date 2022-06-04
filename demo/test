@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>Demo 1</title>
+  </head>
+  <body style="background: rgb(0, 255, 255,.25);">
+    <h1 style="text-align:center; color:midnightblue;">My first heading</h1>
+    <h3>Smaller heading</h3>
+    <h6>Smallest heading</h6>
+    <p style="text-align:center;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc sed id semper risus in hendrerit gravida rutrum quisque. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Id neque aliquam vestibulum morbi blandit. Lectus vestibulum mattis ullamcorper velit sed ullamcorper. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. At urna condimentum mattis pellentesque id. Sed lectus vestibulum mattis ullamcorper velit sed. Faucibus purus in massa tempor nec feugiat nisl pretium. Quis enim lobortis scelerisque fermentum dui faucibus in.</p>
+  </body>
+</html>
